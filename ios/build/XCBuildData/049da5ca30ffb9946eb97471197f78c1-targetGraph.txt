@@ -1,0 +1,215 @@
+Target dependency graph (63 targets)
+AppAuth in Pods, no dependencies
+BoringSSL-GRPC in Pods, no dependencies
+FBSDKCoreKit_Basics in Pods, no dependencies
+FBAEMKit in Pods, depends on:
+FBSDKCoreKit_Basics in Pods (explicit)
+FBAudienceNetwork in Pods, no dependencies
+FBSDKCoreKit in Pods, depends on:
+FBAEMKit in Pods (explicit)
+FBSDKCoreKit_Basics in Pods (explicit)
+FBSDKLoginKit in Pods, depends on:
+FBSDKCoreKit in Pods (explicit)
+FMDB in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCoreDiagnostics in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreDiagnostics in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GTMSessionFetcher in Pods, no dependencies
+FirebaseAuth in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+abseil in Pods, no dependencies
+gRPC-C++-gRPCCertificates-Cpp in Pods, no dependencies
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods, no dependencies
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+FirebaseMessaging in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseMessaging in Pods (explicit)
+Flutter in Pods, no dependencies
+GTMAppAuth in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GoogleUserMessagingPlatform in Pods, no dependencies
+Google-Mobile-Ads-SDK in Pods, depends on:
+GoogleAppMeasurement in Pods (explicit)
+GoogleUserMessagingPlatform in Pods (explicit)
+GoogleSignIn in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+ReachabilitySwift in Pods, no dependencies
+apple_sign_in_safety in Pods, depends on:
+Flutter in Pods (explicit)
+assets_audio_player in Pods, depends on:
+Flutter in Pods (explicit)
+assets_audio_player_web in Pods, depends on:
+Flutter in Pods (explicit)
+audio_session in Pods, depends on:
+Flutter in Pods (explicit)
+firebase_core in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+cloud_firestore in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+connectivity_plus in Pods, depends on:
+Flutter in Pods (explicit)
+ReachabilitySwift in Pods (explicit)
+facebook_audience_network in Pods, depends on:
+FBAudienceNetwork in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_auth in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_messaging in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+flutter_exif_rotation in Pods, depends on:
+Flutter in Pods (explicit)
+flutter_local_notifications in Pods, depends on:
+Flutter in Pods (explicit)
+flutter_login_facebook in Pods, depends on:
+FBSDKLoginKit in Pods (explicit)
+Flutter in Pods (explicit)
+google_mobile_ads in Pods, depends on:
+Flutter in Pods (explicit)
+Google-Mobile-Ads-SDK in Pods (explicit)
+google_sign_in in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+image_picker in Pods, depends on:
+Flutter in Pods (explicit)
+in_app_purchase_storekit in Pods, depends on:
+Flutter in Pods (explicit)
+ios_insecure_screen_detector in Pods, depends on:
+Flutter in Pods (explicit)
+just_audio in Pods, depends on:
+Flutter in Pods (explicit)
+launch_review in Pods, depends on:
+Flutter in Pods (explicit)
+package_info_plus in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider_ios in Pods, depends on:
+Flutter in Pods (explicit)
+share_plus in Pods, depends on:
+Flutter in Pods (explicit)
+shared_preferences_ios in Pods, depends on:
+Flutter in Pods (explicit)
+sms_autofill in Pods, depends on:
+Flutter in Pods (explicit)
+sqflite in Pods, depends on:
+FMDB in Pods (explicit)
+Flutter in Pods (explicit)
+url_launcher_ios in Pods, depends on:
+Flutter in Pods (explicit)
+video_player in Pods, depends on:
+Flutter in Pods (explicit)
+wakelock in Pods, depends on:
+Flutter in Pods (explicit)
+webview_flutter_wkwebview in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+AppAuth in Pods (explicit)
+BoringSSL-GRPC in Pods (explicit)
+FBAEMKit in Pods (explicit)
+FBAudienceNetwork in Pods (explicit)
+FBSDKCoreKit in Pods (explicit)
+FBSDKCoreKit_Basics in Pods (explicit)
+FBSDKLoginKit in Pods (explicit)
+FMDB in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+FirebaseMessaging in Pods (explicit)
+Flutter in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+Google-Mobile-Ads-SDK in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+GoogleUserMessagingPlatform in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+ReachabilitySwift in Pods (explicit)
+abseil in Pods (explicit)
+apple_sign_in_safety in Pods (explicit)
+assets_audio_player in Pods (explicit)
+assets_audio_player_web in Pods (explicit)
+audio_session in Pods (explicit)
+cloud_firestore in Pods (explicit)
+connectivity_plus in Pods (explicit)
+facebook_audience_network in Pods (explicit)
+firebase_auth in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_messaging in Pods (explicit)
+flutter_exif_rotation in Pods (explicit)
+flutter_local_notifications in Pods (explicit)
+flutter_login_facebook in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+gRPC-Core in Pods (explicit)
+google_mobile_ads in Pods (explicit)
+google_sign_in in Pods (explicit)
+image_picker in Pods (explicit)
+in_app_purchase_storekit in Pods (explicit)
+ios_insecure_screen_detector in Pods (explicit)
+just_audio in Pods (explicit)
+launch_review in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+package_info_plus in Pods (explicit)
+path_provider_ios in Pods (explicit)
+share_plus in Pods (explicit)
+shared_preferences_ios in Pods (explicit)
+sms_autofill in Pods (explicit)
+sqflite in Pods (explicit)
+url_launcher_ios in Pods (explicit)
+video_player in Pods (explicit)
+wakelock in Pods (explicit)
+webview_flutter_wkwebview in Pods (explicit)

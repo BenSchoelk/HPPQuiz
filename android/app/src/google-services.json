@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409098582542",
+    "project_id": "analog-reef-300115",
+    "storage_bucket": "analog-reef-300115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409098582542:android:6f080193384fcfa688da5f",
+        "android_client_info": {
+          "package_name": "com.HPP.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409098582542-6d1dq41sqhnjahpl5loo7hha520llg4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HPP.quiz",
+            "certificate_hash": "7c11e0473f25f8425bf7d593ce077888e5197781"
+          }
+        },
+        {
+          "client_id": "409098582542-82aq5ilq8foeb9sra8saqe11amuoum8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarEKJKJcrZzoaO-KoV4-2X9abJObWRYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409098582542-82aq5ilq8foeb9sra8saqe11amuoum8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
